@@ -1,0 +1,53 @@
+body{
+  background-color: aliceblue;
+  color: black;
+}
+h1{
+  text-align: center;
+  background-color:white;
+}
+nav{
+  text-align: right;
+}
+#b{
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+  background-color: black;
+  color: blanchedalmond;
+  text-align: center;
+}
+#a{
+  position:fixed;
+  background-color: white;
+  display: inline;
+}
+#c{
+  text-align: left;
+}
+#d{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+display: flexbox;
+}
+#f{
+  text-align: left;
+}
+#i{
+ text-align: left;
+}
+#k{
+  display: inline-block;
+}
+h4{
+  color: grey;
+}
+a{
+  color: black;
+}
+#i1{
+  float:left;
+}
+header{
+  background-color: white;
+}
